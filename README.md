@@ -1,0 +1,2 @@
+# TextRecognitionFormCameraInRealTime
+Industrial Training Project
